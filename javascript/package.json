@@ -1,0 +1,30 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "Test project for docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo not implemented"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan1rock/Methodologies-Lab3.git"
+  },
+  "keywords": [
+    "docker",
+    "js",
+    "node",
+    "express",
+    "server"
+  ],
+  "author": "Danylo Holets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dan1rock/Methodologies-Lab3/issues"
+  },
+  "homepage": "https://github.com/dan1rock/Methodologies-Lab3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
